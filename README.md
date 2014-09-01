@@ -16,4 +16,4 @@
  
 2. [集合](List.md)
 3. [AWT and Swing](swing.md)
-4. [int型和byte数组转换](ByteSwitchInt.md)
+4. [int型和byte数组转换](ByteSwitchInt.class)
